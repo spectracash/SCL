@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=Spectra 
+Comment=Spectra P2P Cryptocurrency
+Comment[fr]=Spectra, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Spectra, eşten eşe kriptografik sanal para birimi
+Exec=scl-qt %u
+Terminal=false
+Type=Application
+Icon=scl128
+MimeType=x-scheme-handler/scl;
+Categories=Office;Finance;
+StartupWMClass=scl-qt

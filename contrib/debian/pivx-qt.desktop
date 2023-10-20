@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=Spectra
+Comment= SCL P2P Cryptocurrency
+Comment[fr]= SCL, monnaie virtuelle cryptographique pair à pair
+Comment[tr]= SCL, eşten eşe kriptografik sanal para birimi
+Exec=scl-qt %u
+Terminal=false
+Type=Application
+Icon=scl128
+MimeType=x-scheme-handler/pivx;
+Categories=Office;Finance;
+StartupWMClass=Spectra-qt
