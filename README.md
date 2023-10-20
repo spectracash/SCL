@@ -1,17 +1,3 @@
-SpectraCash Core Repository
-=====================================
-
-### Coin Specs
- 
-• Block Time: 60 Seconds    
-• Maturity: 50 Confirmations   
-• Ports: 22779 (p2p) / 22780 (rpc)   
-• Explorer https://scan.spectra.cash/   
-• Website https://spectra.cash/
-• Derivation Path = m/44'/854'/0'
-
----
-
 # SpectraCash Blockchain Specification
 
 - Coin Name: Spectra Cash
